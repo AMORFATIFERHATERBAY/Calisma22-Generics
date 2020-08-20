@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/bin/Debug/netcoreapp3.1/Calisma22-Generics.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/bin/Debug/netcoreapp3.1/Calisma22-Generics.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/bin/Debug/netcoreapp3.1/Calisma22-Generics.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/bin/Debug/netcoreapp3.1/Calisma22-Generics.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/bin/Debug/netcoreapp3.1/Calisma22-Generics.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/obj/Debug/netcoreapp3.1/Calisma22-Generics.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/obj/Debug/netcoreapp3.1/Calisma22-Generics.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/obj/Debug/netcoreapp3.1/Calisma22-Generics.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/obj/Debug/netcoreapp3.1/Calisma22-Generics.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/obj/Debug/netcoreapp3.1/Calisma22-Generics.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/obj/Debug/netcoreapp3.1/Calisma22-Generics.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma22-Generics/obj/Debug/netcoreapp3.1/Calisma22-Generics.genruntimeconfig.cache
