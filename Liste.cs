@@ -12,7 +12,9 @@ namespace Calisma22_Generics
             elemanlar = new object[varSayilanKapasite];
         }
         public virtual int Ekle(object deger)
-        {
+        { 
+            Console.WriteLine("Büyüklük = " + buyukluk);
+
             if (this.buyukluk == this.elemanlar.Length)
             {
                 this.GerekliyseKapasiteArtir(this.buyukluk + 1);
@@ -76,8 +78,14 @@ namespace Calisma22_Generics
         }
         public int Boyut
         {
-            get {return elemanlar.GetUpperBound(0);}
+            get { return elemanlar.GetUpperBound(0); }
         }
-        
+        public object[] Elemanlar
+        {
+            get { return elemanlar; }
+            set { elemanlar = value; }
+
+        }
+
     }
 }

@@ -13,6 +13,8 @@ namespace Calisma22_Generics
         }
         public virtual int Ekle(T deger)
         {
+            Console.WriteLine("Büyüklük = " + buyukluk);
+            
             if (this.buyukluk == this.elemanlar.Length)
             {
                 this.GerekliyseKapasiteArtir(this.buyukluk + 1);
@@ -76,11 +78,14 @@ namespace Calisma22_Generics
         }
         public int Boyut
         {
-            get {return elemanlar.GetUpperBound(0);}
+            get { return elemanlar.GetUpperBound(0); }
         }
-        // public override string ToString()
-        // {
-        //     return $"{"
-        // }
+        public T[] Elemanlar
+        {
+            get { return elemanlar; }
+            set { elemanlar = value; }
+
+        }
+
     }
 }
