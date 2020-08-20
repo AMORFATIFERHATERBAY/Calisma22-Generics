@@ -78,9 +78,6 @@ namespace Calisma22_Generics
         {
             get {return elemanlar.GetUpperBound(0);}
         }
-        // public override string ToString()
-        // {
-        //     return $"{"
-        // }
+        
     }
 }
